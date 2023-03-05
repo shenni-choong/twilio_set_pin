@@ -43,3 +43,4 @@ urllib3==1.25.8
 Werkzeug==0.16.1
 WTForms==2.3.3
 Flask-Mail==0.9.1
+twilio==7.16.4
